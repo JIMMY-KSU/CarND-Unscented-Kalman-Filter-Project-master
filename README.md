@@ -13,12 +13,14 @@ Accuracy - RMSE:
 
 AS below figure for NIS (Normalized Innovation Squared) show the NIS for lidar is below 95% line (5.991) for chi-square with degree of dreedom of 2. 
 UKF-NIS for Lidar: 
+
 [UKF-NIS-Lidar.png]: ./Results/UKF-NIS-Lidar.png
 ![alt_text][UKF-NIS-Lidar.png]
 
 AS below figure for NIS (Normalized Innovation Squared) show the NIS for radar is below 95% line (7.815) for chi-square with degree of dreedom of 3. 
 UKF-NIS for Radar: 
-[UKF-NIS_Radar.png]: ./Results/UKF-NIS-Radar.png
+
+[UKF-NIS-Radar.png]: ./Results/UKF-NIS-Radar.png
 ![alt_text][UKF-NIS-Radar.png]
 
 
